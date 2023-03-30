@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kdkhd/kdkhd/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kdkhd/kdkhd/output/snake.svg" alt="Snake animation" />
 
 ###
 
