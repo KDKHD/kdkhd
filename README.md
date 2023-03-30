@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/kdkhd/kdkhd/output/snake.svg" alt="Snake animation" />
 
 ###
 
